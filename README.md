@@ -29,6 +29,6 @@ Open MongoDB compass using the interface icon or run this command (Linux) : $ mo
     $ cd app/
     $ python3 main.py
 
-Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+Open [http://localhost:8000/docs](http://localhost:8000/docs) to view it in the browser.
 
- 
+/home/khairi-brahmi/Desktop/Screenshot_2021-12-25_17-47-57.png
